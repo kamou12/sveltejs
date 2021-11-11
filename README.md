@@ -24,3 +24,4 @@ npm run dev
 npm run build
 npm run preview
 ```
+首页为./src/app.html
